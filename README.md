@@ -91,10 +91,22 @@ Then the content should be unique and reflect the skills and personality of the 
 
 Number and name of feature: 1 - Refactor the CSS
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30 min
 
-Start time: _____
+Start time: 5pm
 
-Finish time: _____
+Finish time: 5:28
 
-Actual time needed to complete: _____
+Actual time needed to complete: 28 min
+
+
+Number and name of feature: 2 - Modify the contents
+
+Estimate of time needed to complete: 30 min
+
+Start time: 5:30pm
+
+Finish time: 
+
+Actual time needed to complete: 
+
